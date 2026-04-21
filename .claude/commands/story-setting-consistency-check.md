@@ -1,0 +1,1 @@
+Read `skills/story-setting-consistency-check/SKILL.md` and all files it references under `skills/story-setting-consistency-check/references/`. Then execute the skill's workflow for the current task: $ARGUMENTS

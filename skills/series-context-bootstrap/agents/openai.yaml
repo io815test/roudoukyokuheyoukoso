@@ -1,0 +1,4 @@
+interface:
+  display_name: "Series Context Bootstrap"
+  short_description: "Fast context rebuild for long fiction."
+  default_prompt: "Use $series-context-bootstrap to reconstruct the minimum canon, recent episode state, and next files needed for this fiction task."

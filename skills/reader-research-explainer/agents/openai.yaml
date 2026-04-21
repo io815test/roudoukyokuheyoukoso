@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reader Research Explainer"
+  short_description: "Explain reading research clearly for non-experts."
+  default_prompt: "Use $reader-research-explainer to explain evidence in plain Japanese and propose optional improvements."

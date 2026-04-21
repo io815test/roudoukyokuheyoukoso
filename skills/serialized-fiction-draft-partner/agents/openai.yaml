@@ -1,0 +1,4 @@
+interface:
+  display_name: "Serialized Fiction Draft Partner"
+  short_description: "Stable episode drafting for long-form fiction."
+  default_prompt: "Draft or revise the next episode while preserving canon, recent continuity, and the established tone of the series."

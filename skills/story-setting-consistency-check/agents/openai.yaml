@@ -1,0 +1,4 @@
+interface:
+  display_name: "Story Setting Consistency Check"
+  short_description: "Audit canon conflicts and continuity gaps in story drafts"
+  default_prompt: "Use $story-setting-consistency-check to compare this draft against the canon setting and flag contradictions."

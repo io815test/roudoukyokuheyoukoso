@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repository Survey"
+  short_description: "Map repo structure, workflows, and risk hotspots."
+  default_prompt: "Use $repository-survey to understand this repository before making changes."

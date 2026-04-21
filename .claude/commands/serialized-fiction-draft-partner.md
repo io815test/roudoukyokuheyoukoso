@@ -1,0 +1,1 @@
+Read `skills/serialized-fiction-draft-partner/SKILL.md` and all files it references under `skills/serialized-fiction-draft-partner/references/`. Then execute the skill's workflow for the current task: $ARGUMENTS
