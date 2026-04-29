@@ -19,7 +19,7 @@ File mapping for this repository:
 - character — Artemisia: `canon/04_アルテミシア_人物設定資料.md`
 - character — Nadia Gromova: `canon/03_ナディア・グロモワ_人物設定資料.md`
 - character — Claudia: `canon/05_クラウディア_人物設定資料.md`
-- arc overview, Part 1 theme and incident axis: `canon/06_第一部_アーク概要.md`
+- arc overview, Part 1 theme and incident axis: `drafts/reference/第一部_アーク概要.md`
 
 ## 3. Current Story Position
 
@@ -40,7 +40,7 @@ If the task is about the next episode or a revision near the front of the curren
 
 Current draft state (as of 2026-04-19):
 - Episode 1 draft: `drafts/01_第一話_労働局へようこそ.md`
-- Episode 2 draft: `drafts/02_第二話_硝子越しの声.md` (incomplete — interrogation scene missing)
+- Episode 2 draft: `drafts/02_第二話_泥沼に住まう者.md`
 - No published posts yet
 
 ## 5. Stop Rule
