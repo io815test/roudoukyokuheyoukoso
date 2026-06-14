@@ -1,0 +1,6 @@
+interface:
+  display_name: "Legal Worldbuilding Drafter"
+  short_description: "架空法令と行政権限を設計"
+  default_prompt: "Use $legal-worldbuilding-drafter to draft story-usable law and agency authority for this scene."
+policy:
+  allow_implicit_invocation: true

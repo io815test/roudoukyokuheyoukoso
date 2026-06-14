@@ -33,6 +33,12 @@ Read context in this order unless the user overrides it:
 
 Do not bulk-read the whole series unless blocked.
 
+For this repository, prefer current arc notes before broad canon:
+
+- Part 1: `drafts/reference/第一部_アーク概要.md`
+- Part 2: `drafts/reference/第二部_適正処理済_企画メモ.md`
+- Character cross-reference: `canon/00_人物比較マトリクス.md`
+
 ## Continuity Discipline
 
 Preserve:
@@ -45,6 +51,8 @@ Preserve:
 - unresolved threads
 
 If the user asks for a continuity check, or if you suspect canon drift or unsupported assumptions, apply the workflow from [story-setting-consistency-check](../story-setting-consistency-check/SKILL.md) instead of improvising a looser review.
+
+If the user asks whether a fictional law or authority works, use [legal-worldbuilding-drafter](../legal-worldbuilding-drafter/SKILL.md). If the user asks whether a weapon, sensor, industrial process, or environmental analysis works, use [technical-plausibility-check](../technical-plausibility-check/SKILL.md).
 
 ## Author Enrichment Principle
 

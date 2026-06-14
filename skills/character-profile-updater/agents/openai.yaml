@@ -1,0 +1,6 @@
+interface:
+  display_name: "Character Profile Updater"
+  short_description: "人物設定をcanonへ反映"
+  default_prompt: "Use $character-profile-updater to propagate this character decision into canon."
+policy:
+  allow_implicit_invocation: true

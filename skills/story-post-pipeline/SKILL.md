@@ -39,7 +39,9 @@ Rules:
 
 - Preserve original prose verbatim unless the user explicitly asks for rewriting.
 - Split on scene or pacing boundaries when possible.
-- Prefer stable filenames such as `posts/episode-04-part-01.md`.
+- Follow the repository's current Japanese sequential post naming when present, such as `posts/14_第十四話　硝子張りの監査（4）.md`.
+- When converting a draft into several posts, continue the existing `posts/NN_第N話...` numbering instead of restarting from the draft episode number.
+- Do not delete or rename existing posts unless the user explicitly asks for a full regeneration.
 - Keep source metadata lines such as `Date`, `Location`, `Person`, `Assignment`, `Segment` when they help later extraction.
 
 Before writing split files, inspect adjacent `posts/` filenames so numbering stays consistent.

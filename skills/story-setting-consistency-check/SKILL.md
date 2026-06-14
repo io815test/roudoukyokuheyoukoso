@@ -89,10 +89,11 @@ Optionally note details that already fit canon well when that helps preserve int
 
 When working on the current project, pay extra attention to:
 
-- timeline anchors such as `2002-04-03` and `2012`
-- the distinction between meteorites, magical beasts, and silicon plants
-- the limits and costs of magic
-- modern-military logistics versus catalyst-magic technology
-- rank, role, and personal history consistency for named characters
+- agency jurisdiction: 労働局, 国家警察, 資源環境監督庁, 国土運輸監督省, 国防軍, SAG, CTRU, 水上臨検隊
+- legal authority boundaries: inspection, seizure, arrest, emergency protection, surveillance data access, military support requests
+- corporate power structures: レンシア通商連合評議会, 黒菱鉱業, グラウベルク, 瑞海-related actors
+- character knowledge and timeline: who knows about ミラージュ, ルプス, SWAMP, 黒菱, and the second-part pollution case
+- technology constraints: LM-series weapons, nonlethal rules, autonomous machines, UAV/UGV, S/VTOL, satellite/current analysis, affinity-ore mining waste
+- tone consistency: dry institutional prose, controlled emotional pressure, action scenes grounded in logistics and procedure
 
 Load [references/checklist.md](references/checklist.md) when preparing the review.

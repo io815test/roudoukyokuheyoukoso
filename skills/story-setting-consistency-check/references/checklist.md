@@ -4,52 +4,59 @@ Use this checklist to decide what to verify. Read only the sections relevant to 
 
 ## 1. Timeline And Causality
 
-- Do dates match established anchor events?
-- Does the sequence of events still make causal sense?
-- Does a character's age, rank, or career fit the timeline?
-- Does the draft assume knowledge, technology, or institutions before they exist?
+- Do events follow established episode order and aftermath?
+- Does the draft assume a character knows something before learning it?
+- Does the timing of agency response, travel, analysis, or deployment fit the scene?
+- Are injuries, deaths, recovery periods, and institutional consequences carried forward?
 
-## 2. Geography And Fronts
+## 2. Agencies And Jurisdiction
 
-- Do locations match known fronts, safe zones, and meteorite spheres?
-- Is travel time plausible for the stated conditions?
-- Does the political or military control of the area match canon?
+- Does the responsible agency match the problem: 労働局, 国家警察, 資源環境監督庁, 国土運輸監督省, 国防軍, SAG, CTRU, 水上臨検隊?
+- Are inspection, search, seizure, arrest, emergency protection, and military support treated as separate authorities?
+- Is interagency escalation necessary where the scene says it is?
+- Does a character bypass procedure only when the story acknowledges the risk?
 
-## 3. Factions, Institutions, And Command
+## 3. Law And Evidence
 
-- Do unit names, ranks, chains of command, and institutional roles match canon?
-- Does the draft give a faction capabilities or authority it should not have?
-- Are elite units, rescue assets, and strategic mages used in ways that fit their stated scarcity?
+- Does the legal hook support the action being taken?
+- Are administrative sanctions, criminal charges, and evidence handoff kept distinct?
+- Is surveillance or road/vehicle data access justified by a canon law or emergency procedure?
+- Does the text distinguish suspicion, inference, probable cause, and proof?
 
-## 4. Magic System
+## 4. Factions And Corporate Power
 
-- Does the spell effect fit the world's stated principles?
-- Are cost, fatigue, range, precision, and stability treated consistently?
-- Does the scene accidentally make magic too convenient or too absolute?
+- Do corporate groups, fronts, contractors, and illegal teams match their established incentives?
+- Is レンシア通商連合評議会 distinct from government bodies such as 連邦行政会議?
+- Does the draft preserve the difference between domestic corporate crime, 瑞海 activity, SWAMP remnants, and hired deniable violence?
+- Are cutouts and plausible deniability used where a major corporation would avoid direct exposure?
 
 ## 5. Technology And Equipment
 
-- Does the gear match the world's catalyst-magic industrial base?
-- Are normal munitions, special rounds, heavy weapons, and launchers used consistently?
-- Does the robe or other specialist equipment keep its established functional role?
+- Do LM-series weapons, nonlethal munitions, batteries, sensors, UAV/UGV, autonomous machines, and S/VTOL systems keep known constraints?
+- Does equipment have plausible failure modes, logistics, power, heat, ammunition, or legal limits?
+- Are heavy weapons and military support treated with appropriate escalation costs?
+- Does the scene avoid making technology solve the plot without tradeoffs?
 
-## 6. Enemy Biology And Ecology
+## 6. Environmental And Industrial Plausibility
 
-- Does the magical beast's form fit its generation method?
-- Is the distinction between `マザリモノ`, `ワレモノ`, and `王の獣` preserved?
-- Does the behavior follow ecology rather than human-like morality unless canon supports otherwise?
+- Does the evidence source match the conclusion: fish tissue, gills, water samples, satellite images, current models, soil samples, paperwork, or witness records?
+- Are mining waste, fixed residue, untreated residue, leachate, and wastewater kept distinct?
+- Does a pollution path follow terrain, rainfall, hydrology, current, and sampling logic?
+- Are paperwork fraud, sample substitution, contractors, transport routes, and subsidies considered where corporate waste crime appears?
 
 ## 7. Character Continuity
 
 - Do background, relationships, motives, wounds, and beliefs match prior canon?
 - Does the emotional weight of key figures remain intact?
-- Does the draft assign knowledge or experience the character should not yet have?
+- Does the character voice match established speech habits?
+- Does a new character have agency rather than serving only to praise or explain existing protagonists?
 
-## 8. Terminology And Tone
+## 8. Tone And Prose
 
-- Are terms used consistently with canon definitions?
-- Does the narration preserve the setting's core tone and strategic reality?
-- Does the draft accidentally turn a costly war setting into effortless heroics?
+- Does the narration preserve dry institutional pressure and restrained emotional heat?
+- Does action remain grounded in logistics and consequence?
+- Are legal and technical explanations shown through scene when possible?
+- Does the draft avoid turning costly enforcement into effortless heroics?
 
 ## 9. Missing Support
 

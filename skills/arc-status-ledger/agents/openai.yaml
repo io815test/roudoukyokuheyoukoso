@@ -1,0 +1,6 @@
+interface:
+  display_name: "Arc Status Ledger"
+  short_description: "アーク状況と未解決点を管理"
+  default_prompt: "Use $arc-status-ledger to update the arc status after this draft change."
+policy:
+  allow_implicit_invocation: true

@@ -4,15 +4,16 @@ Use one JSON file per post.
 
 ## Path Rule
 
-- source markdown: `posts/episode-04-part-01.md`
-- extraction JSON: `reports/extractions/episode-04/part-01.json`
+- source markdown: `posts/NN_第N話　タイトル.md` or the repository's current post filename pattern
+- extraction JSON: `reports/extractions/episode-NN/part-01.json`
+- keep extraction folder names stable once created
 
 ## JSON Shape
 
 ```json
 {
-  "source_path": "posts/episode-04-part-01.md",
-  "post_id": "episode-04-part-01",
+  "source_path": "posts/14_第十四話　硝子張りの監査（4）.md",
+  "post_id": "episode-14",
   "summary": "Short factual summary of this post.",
   "entities": [
     {

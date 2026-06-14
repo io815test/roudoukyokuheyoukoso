@@ -1,0 +1,6 @@
+interface:
+  display_name: "Technical Plausibility Check"
+  short_description: "技術・戦術・産業描写を検証"
+  default_prompt: "Use $technical-plausibility-check to check whether this technical or tactical idea is believable."
+policy:
+  allow_implicit_invocation: true
